@@ -1,0 +1,36 @@
+p, h1, h2, h3 {
+  font-family: Helvetica;
+
+}
+
+#mainpagehead {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("../pattern.jpg");
+
+}
+
+.emphasizedprice {
+  font-weight: bold;
+  color: blue;
+}
+
+.productcategory {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#brushescategory {
+  background-color: mediumspringgreen;
+}
+
+#framescategory {
+  background-color: lightcoral;
+}
+
+#paintcategory {
+  background-color: skyblue;
+}
